@@ -1,7 +1,7 @@
-import './tyle.css'
+import './tyle.css';
 
 const App = () => {
-  return <div>App</div>;
+  return <div>Hello {process.env.name}</div>;
 };
 
 export default App;
