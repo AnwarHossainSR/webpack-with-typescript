@@ -1,4 +1,4 @@
-import React from "react";
+import './tyle.css'
 
 const App = () => {
   return <div>App</div>;
